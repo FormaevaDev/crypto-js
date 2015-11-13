@@ -1,0 +1,44 @@
+{
+  "name": "crypto-js",
+  "version": "3.1.5",
+  "description": "JavaScript library of crypto standards.",
+  "license": "MIT",
+  "homepage": "https://github.com/FormaevaDev/crypto-js.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FormaevaDev/crypto-js.git"
+  },
+  "keywords": [
+    "security",
+    "crypto",
+    "Hash",
+    "MD5",
+    "SHA1",
+    "SHA-1",
+    "SHA256",
+    "SHA-256",
+    "RC4",
+    "Rabbit",
+    "AES",
+    "DES",
+    "PBKDF2",
+    "HMAC",
+    "OFB",
+    "CFB",
+    "CTR",
+    "CBC",
+    "Base64"
+  ],
+  "main": "crypto-js.js",
+  "dependencies": {},
+  "ignore": [],
+  "_release": "3.1.5",
+  "_resolution": {
+    "type": "version",
+    "tag": "3.1.5"
+  },
+  "_source": "https://github.com/FormaevaDev/crypto-js.git",
+  "_target": "~3.1.5",
+  "_originalSource": "crypto-js",
+  "_direct": true
+}
